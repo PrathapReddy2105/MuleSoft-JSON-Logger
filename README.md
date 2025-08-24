@@ -50,11 +50,6 @@ PS2. For EU Control Plane deployment you have to modify the `<distributionManage
 </distributionManagement>
 ```
 
-##  Release notes [HERE](https://github.com/mulesoft-consulting/json-logger/blob/mule-4.x/json-logger/README.md)
-
-## Author
-
-* **Andres Ramirez** [Slack: @andres.ramirez / Email: andres.ramirez@mulesoft.com]
 
 ## Support disclaimer
 
